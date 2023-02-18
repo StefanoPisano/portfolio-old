@@ -6,5 +6,25 @@
     "Music",
     "Photography",
     "Environment"
+  ],
+  "listOfFavourites": [
+    {
+      "label": "Favorite song while working",
+      "title": "Sacrifice",
+      "artist": "The Weeknd",
+      "link": "https://open.spotify.com/track/1HFYN0ApWWNBjqo5AOQ8lp?si=8c0ac8eb29da4907"
+    },
+    {
+      "label": "Favorite song while travelling",
+      "title": "King of the Road",
+      "artist": "Roger Miller",
+      "link": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt?si=dbc3cb6e8b41485d"
+    },
+    {
+      "label": "Favorite song for chilling out",
+      "title": "Honky Tonk of Wermland",
+      "artist": "Detektivbyrån",
+      "link": "https://open.spotify.com/track/0OBUa3xSfydSqeqL45aPdW?si=6b066ace916c48f2"
+    }
   ]
 }
