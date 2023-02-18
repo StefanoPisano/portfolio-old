@@ -1,48 +1,51 @@
 [
   {
-    "companyCode": "abc",
-    "label": "ABC",
-    "companyName": "ABC Company",
-    "city": "ABC City, World",
-    "job": "My beautiful role in ABC",
+    "companyCode": "ank",
+    "label": "ANK",
+    "companyName": "Anoki S.r.l.",
+    "city": "Milan, Italy",
+    "job": "Full Stack Developer",
     "from": "Sept 2016",
     "to": "Oct 2020",
     "tags": [
-      "Skill 1",
-      "Skill 2",
-      "Skill 3",
-      "Skill 4",
-      "Skill 5",
-      "Skill 6",
-      "Skill 7"
+      "JAVA",
+      "Spring",
+      "Vue",
+      "jQuery",
+      "Javascript",
+      "Jenkins",
+      "SQL Server",
+      "Jasper"
     ],
     "jobDescriptions": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Praesent eu magna in lorem sollicitudin faucibus.",
-      "Nulla at arcu fermentum, eleifend dolor in, rutrum magna.",
-      "Sed eget enim scelerisque, volutpat diam et, blandit enim.",
-      "Ut gravida tellus id eros molestie, sed luctus ligula mollis."
+      "Full-stack developer on a project for a client leader in the game translation/localization industry.",
+      "Responsible for the maintenance team, coordinating other resources to solve issues notified by the client.",
+      "Code Refactoring sessions to improve readability and performances.",
+      "Introduction of new technologies like Vue.js for the frontend side of the application.",
+      "Used Jenkins as the deployment tool and SonarQube for static analysis of the code.",
+      "Tutoring activities for new entries."
     ],
     "default": false
   },
   {
-    "companyCode": "def",
-    "label": "DEF",
-    "companyName": "DEF Company",
-    "city": "DEF City, World",
-    "job": "My beautiful role in DEF",
+    "companyCode": "tgi",
+    "label": "TGI",
+    "companyName": "Tech Gap Italia",
+    "city": "Milan, Italy",
+    "job": "Full Stack Developer & Team Leader",
     "from": "Oct 2020",
     "to": "Present",
     "tags": [
-      "Skill 1",
-      "Skill 2",
-      "Skill 3",
-      "Skill 4"
+      "JAVA",
+      "Spring",
+      "Vue",
+      "Jenkins",
+      "AWS"
     ],
     "jobDescriptions": [
-      "Nulla at arcu fermentum, eleifend dolor in, rutrum magna.",
-      "Sed eget enim scelerisque, volutpat diam et, blandit enim.",
-      "Ut gravida tellus id eros molestie, sed luctus ligula mollis."
+      "Working as Full-Stack Developer on new functionalities.",
+      "Team Leader on an International project. Managing team work and communication with the client.",
+      "Tutoring activities for new entries."
     ],
     "default": true
   }
