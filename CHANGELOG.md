@@ -1,7 +1,7 @@
 # Changelog
-#### Last update: 2023-02-19
+#### Last update: 2023-03-04
 
 <hr>
 
-**Name** : gz-folio updates <br/>
-**Description** : added slider on experience section 
+**Name** : Project section<br/>
+**Description** : fixed issue with projects link, link is not mandatory anymore.
