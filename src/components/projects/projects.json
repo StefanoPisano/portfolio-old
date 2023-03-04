@@ -1,0 +1,14 @@
+[
+  {
+    "title": "GZ-folio",
+    "logo": "gz-folio/logo.png",
+    "description": "A user-friendly framework that will help anyone building a personal portfolio to show skills and projects. It includes a blog section for all the people who may want to share something with the world.",
+    "link": "https://github.com/StefanoPisano/gz-folio",
+    "tags": [
+      "Vue JS",
+      "Javascript",
+      "HTML",
+      "CSS"
+    ]
+  }
+]
