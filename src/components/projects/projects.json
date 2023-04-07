@@ -10,5 +10,19 @@
       "HTML",
       "CSS"
     ]
+  },
+  {
+    "title": "Business Production System",
+    "logo": "default/default.jpg",
+    "description": "Project for a client on localization industry. Serves as tool for managing assignment, invoices and onboarding of new translators.",
+    "tags": [
+      "Java",
+      "Spring",
+      "SQL Server",
+      "AWS",
+      "Vue JS",
+      "Javascript",
+      "CSS"
+    ]
   }
 ]
